@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="uft-8">
-  <title>HTML入門-JavaScriptの基本</title>
-</head>
-<body>
-<h1>JavaScript</h1>
-<button type="button" onclick="ShowAlert()">ここをクリック</button>
-<script>
-  function ShowAlert() {
-    alert("Hello world!!");
-  }
-</script>
-</body>
-</html>
+<p align="center">
+ <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" /
+</p>
