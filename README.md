@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="[https://moe-counter.glitch.me/get/@warasugi-777]"  alt=""/>
+  <img src="https://moe-counter.glitch.me/get/@warasugitewara-777?theme=gelbooru"  alt=""/>
 </p>
