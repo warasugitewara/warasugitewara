@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @warasugitewara
-- 🌱 I’m currently learning ...java;Python;C/C++;Kotlin etc...
+- 🌱 I’m currently learning ...java; Python; C/C++; Kotlin etc...
 
 <span> Count </span>😃
 <p align="center">
