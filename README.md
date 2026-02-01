@@ -35,9 +35,15 @@
   <tr>
     <td colspan="2" align="center">
       <strong>⚡ Shell & Prompt</strong><br>
-      <img src="https://img.shields.io/badge/WezTerm-latest-blue?style=flat-square&logo=shell" />
-      <img src="https://img.shields.io/badge/Nushell-0.86-success?style=flat-square&logo=shell" />
-      <img src="https://img.shields.io/badge/Starship-1.17-success?style=flat-square&logo=shell" />
+      <a href="https://github.com/wez/wezterm">
+        <img src="https://img.shields.io/badge/WezTerm-latest-blue?style=flat-square&logo=shell" alt="WezTerm" />
+      </a>
+      <a href="https://github.com/nushell/nushell">
+        <img src="https://img.shields.io/badge/Nushell-latest-success?style=flat-square&logo=shell" alt="Nushell" />
+      </a>
+      <a href="https://github.com/starship/starship">
+        <img src="https://img.shields.io/badge/Starship-latest-success?style=flat-square&logo=shell" alt="Starship" />
+      </a>
     </td>
   </tr>
 </table>
