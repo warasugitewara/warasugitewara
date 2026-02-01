@@ -5,9 +5,6 @@
   - 🎮 I'm currently working on browser games and Minecraft plugins<br>
   - 🌱 I'm learning more about distributed systems & scalable architecture<br>
 </p>
-
-<h2 align="center">💻 My Skills</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,rust,kotlin,lua,typescript,javascript,react,nodejs,docker,git,linux,windows&theme=dark" />
 </p>
