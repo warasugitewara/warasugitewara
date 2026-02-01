@@ -6,10 +6,16 @@
   - 🌱 I'm learning more about distributed systems & scalable architecture<br>
 </p>
 
+<h2 align="center">💻 My Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,rust,kotlin,lua,typescript,javascript,react,nodejs,docker,linux,git&theme=dark" />
+</p>
+
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warasugitewara&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warasugitewara&theme=github_dark" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warasugitewara&theme=github_dark&utcOffset=9" alt="Productive Time" />
 </div>
 
