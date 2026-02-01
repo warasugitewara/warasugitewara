@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
+  <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-bottom: 30px;">
+    <div>
+      <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
+    </div>
+    <div>
+      <a href="https://discord.com/users/811515262238064640">
+        <img src="https://lanyard.cnrad.dev/api/811515262238064640?showDisplayName=true&theme=dark" alt="Discord" />
+      </a>
+    </div>
+  </div>
 </div>
 
 <h1 align="center">Hi 👋 I'm warasugitewara.</h1>
@@ -22,16 +31,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=warasugitewara&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warasugitewara&theme=github_dark&utcOffset=9" alt="Productive Time" />
 </div>
-
----
-
-<h2 align="center">🔗 Connect</h2>
-
-<p align="center">
-  <a href="https://discord.com/users/811515262238064640">
-    <img src="https://lanyard.cnrad.dev/api/811515262238064640?showDisplayName=true&theme=dark" alt="Discord" />
-  </a>
-</p>
 
 ---
 
