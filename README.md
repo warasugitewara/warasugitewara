@@ -12,7 +12,29 @@
 <h2 align="center">💻 My Skills.</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,react,nodejs,lua,html,css,git,docker&theme=dark&perline=11" />
+  <strong>🔤 Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,lua&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <strong>🎨 Frontend</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <strong>⚙️ Backend & DevOps</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,docker,linux&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <strong>🛠️ Tools & Environment</strong><br>
+  <img src="https://skillicons.dev/icons?i=neovim,wezterm,discord,windows&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <strong>⚡ Shell & Prompt</strong><br>
+  <img src="https://img.shields.io/badge/Nushell-0.86-success?style=flat-square&logo=shell" />
+  <img src="https://img.shields.io/badge/Starship-1.17-success?style=flat-square&logo=shell" />
 </p>
 
 <h2 align="center">📊 My Stats.</h2>
