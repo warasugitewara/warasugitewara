@@ -27,15 +27,15 @@
 
 ---
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-top: 30px;">
-    <div>
+<table align="center" border="0" cellpadding="20">
+  <tr>
+    <td align="center" width="50%">
       <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
-    </div>
-    <div>
+    </td>
+    <td align="center" width="50%">
       <a href="https://discord.com/users/811515262238064640">
         <img src="https://lanyard.cnrad.dev/api/811515262238064640?showDisplayName=true&theme=dark" alt="Discord" />
       </a>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
