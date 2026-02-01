@@ -1,86 +1,48 @@
-# 🚀 warasugitewara
+<h1 align="center">Hi 👋 I'm warasugitewara.</h1>
+<h4 align="center">Student | Backend Developer | Game Developer</h4>
 
 <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
 
-<div align="center">
+<p align="center">
+  - 👀 I'm interested in backend development & web technologies<br>
+  - 🎮 I'm currently working on browser games and Minecraft plugins<br>
+  - 🌱 I'm learning more about distributed systems & scalable architecture<br>
+  - 💞️ I'm looking to collaborate on innovative projects
+</p>
 
-### 🎓 情報系志望の学生 | 🔧 バックエンド開発者
+<h2 align="center">💻 My Skills.</h2>
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,react,nodejs,lua,html,css,git,docker&theme=dark&perline=11" />
+</p>
 
----
+<h2 align="center">📊 My Stats.</h2>
 
-## 👋 About Me
+<p align="center">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&show_icons=true&theme=dark" />
+  <img alt="github state" height="150px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&show_icons=true&theme=dark" />
+</p>
 
-情報系志望の学生で、主にバックエンド開発に取り組んでいます。  
-ブラウザゲーム開発や Minecraft プラグイン制作など、多岐に渡るプロジェクトに参加しています。
+<h2 align="center">🎮 Featured Projects.</h2>
 
-このリポジトリは、プロジェクト管理、バックアップ、そして学習の記録として活用しています。
+<p align="center">
+  <strong>🎯 Browser Game Development</strong><br>
+  Crafting engaging web-based games with robust backend logic<br>
+  <br>
+  <strong>📦 Minecraft Server Plugins</strong><br>
+  Building server-side plugins using Java & Bukkit/Spigot API
+</p>
 
----
+<h2 align="center">🔗 Connect.</h2>
 
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🎮 Featured Projects
-
-### 🎯 ブラウザゲーム開発
-複数のブラウザゲームプロジェクトに取り組んでいます。
-- ゲームロジック設計
-- フロントエンド・バックエンド両対応
-
-### 📦 Minecraft プラグイン制作
-サーバーサイドプラグイン開発の経験があります。
-- Java による Bukkit/Spigot API の使用
-
----
-
-## 📊 GitHub Statistics
+<p align="center">
+  <a href="https://discord.com/users/811515262238064640">
+    <img src="https://lanyard.cnrad.dev/api/811515262238064640?showDisplayName=true&theme=dark" alt="Discord" />
+  </a>
+</p>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warasugitewara&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🔗 Discord Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/811515262238064640?showDisplayName=true&theme=dark)](https://discord.com/users/811515262238064640)
-
----
-
-## 📌 How to Use This Account
-
-- 📝 **Learning & Documentation**: 学習内容のバックアップ
-- 🗂️ **Project Management**: life リポジトリで人生・プロジェクト管理
-- 🚀 **Active Development**: ゲーム開発やプラグイン制作
-
----
-
-<div align="center">
-
-**💡 常に学習中です。フィードバックや協力のお誘いはいつでも歓迎します！**
+**🚀 Always learning. Open to collaborations and feedback!**
 
 </div>
