@@ -21,8 +21,8 @@
 <table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="50%">
-      <strong>🔤 Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,lua,kotlin&theme=dark" />
+      <strong>🔤 Backend Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=java,python,typescript,lua,kotlin&theme=dark" />
     </td>
     <td align="center" width="50%">
       <strong>🛠️ Tools & Environment</strong><br>
@@ -32,7 +32,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>🎨 Frontend</strong><br>
-      <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css&theme=dark" />
     </td>
     <td align="center" width="50%">
       <strong>⚙️ Backend & DevOps</strong><br>
