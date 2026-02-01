@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋 I'm warasugitewara.</h1>
-<h4 align="center">Student | Backend Developer | Game Developer</h4>
-
 <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
+
+<h1 align="center">Hi 👋 I'm warasugitewara.</h1>
 
 <p align="center">
   - 👀 I'm interested in backend development & web technologies<br>
@@ -19,8 +18,13 @@
 <h2 align="center">📊 My Stats.</h2>
 
 <p align="center">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&theme=dark&hide_border=true" />
-  <img alt="github state" height="150px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&show_icons=true&theme=dark&hide_border=true" />
+  <img alt="Repos per Language" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warasugitewara&theme=dark_dimmed" />
+  <img alt="Most Commit Language" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warasugitewara&theme=dark_dimmed" />
+</p>
+
+<p align="center">
+  <img alt="Profile Stats" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=warasugitewara&theme=dark_dimmed" />
+  <img alt="Productive Time" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warasugitewara&theme=dark_dimmed&utc_offset=9" />
 </p>
 
 <h2 align="center">🔗 Connect.</h2>
