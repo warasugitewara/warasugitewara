@@ -19,8 +19,8 @@
 <h2 align="center">📊 My Stats.</h2>
 
 <p align="center">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&show_icons=true&theme=dark" />
-  <img alt="github state" height="150px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&show_icons=true&theme=dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&theme=dark&hide_border=true" />
+  <img alt="github state" height="150px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <h2 align="center">🔗 Connect.</h2>
