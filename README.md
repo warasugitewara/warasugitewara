@@ -23,16 +23,6 @@
   <img alt="github state" height="150px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&show_icons=true&theme=dark" />
 </p>
 
-<h2 align="center">🎮 Featured Projects.</h2>
-
-<p align="center">
-  <strong>🎯 Browser Game Development</strong><br>
-  Crafting engaging web-based games with robust backend logic<br>
-  <br>
-  <strong>📦 Minecraft Server Plugins</strong><br>
-  Building server-side plugins using Java & Bukkit/Spigot API
-</p>
-
 <h2 align="center">🔗 Connect.</h2>
 
 <p align="center">
