@@ -18,13 +18,14 @@
 <h2 align="center">📊 My Stats.</h2>
 
 <p align="center">
-  <img alt="Repos per Language" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warasugitewara&theme=dark_dimmed" />
-  <img alt="Most Commit Language" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warasugitewara&theme=dark_dimmed" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-11-blue?style=flat-square" alt="Repos" />
+  <img src="https://img.shields.io/badge/Followers-38-green?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-139-orange?style=flat-square" alt="Following" />
 </p>
 
 <p align="center">
-  <img alt="Profile Stats" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=warasugitewara&theme=dark_dimmed" />
-  <img alt="Productive Time" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warasugitewara&theme=dark_dimmed&utc_offset=9" />
+  <strong>🔝 Top Languages:</strong><br>
+  Java • Python • TypeScript • JavaScript
 </p>
 
 <h2 align="center">🔗 Connect.</h2>
