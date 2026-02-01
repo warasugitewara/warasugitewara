@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>🎨 Frontend</strong><br>
+      <strong>🎨 Frontend Languages</strong><br>
       <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css&theme=dark" />
     </td>
     <td align="center" width="50%">
