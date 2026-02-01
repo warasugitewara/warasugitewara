@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm warasugitewara.</h1>
+<h1 align="center">Hi 👋 I'm .warasugi</h1>
 <h4 align="center">Student | Backend Developer | Game Developer</h4>
 
 <p align="center">
