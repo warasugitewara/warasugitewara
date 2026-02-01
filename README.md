@@ -23,11 +23,6 @@
   <img src="https://img.shields.io/badge/Following-139-orange?style=flat-square" alt="Following" />
 </p>
 
-<p align="center">
-  <strong>🔝 Top Languages:</strong><br>
-  Java • Python • TypeScript • JavaScript
-</p>
-
 <h2 align="center">🔗 Connect.</h2>
 
 <p align="center">
