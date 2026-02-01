@@ -15,11 +15,11 @@
   <tr>
     <td align="center" width="50%">
       <strong>🔤 Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,lua&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,lua,kotlin&theme=dark" />
     </td>
     <td align="center" width="50%">
       <strong>🛠️ Tools & Environment</strong><br>
-      <img src="https://skillicons.dev/icons?i=neovim,discord,windows&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=neovim,discord,windows,ubuntu&theme=dark" />
     </td>
   </tr>
   <tr>
