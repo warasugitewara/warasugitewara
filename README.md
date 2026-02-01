@@ -14,11 +14,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warasugitewara&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warasugitewara&theme=github_dark&utcOffset=9" alt="Productive Time" />
 </div>
-
-<div align="center">
-  <strong>🚀 Always learning. Open to collaborations and feedback!</strong>
-</div>
-
 <table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="50%">
@@ -30,4 +25,7 @@
       </a>
     </td>
   </tr>
+  <div align="center">
+  <strong>🚀 Always learning. Open to collaborations and feedback!</strong>
+</div>
 </table>
