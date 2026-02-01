@@ -3,12 +3,6 @@
     <div>
       <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
     </div>
-    <div>
-      <h3>📊 My Stats</h3>
-      <img src="https://img.shields.io/badge/Public%20Repositories-11-blue?style=flat-square" alt="Repos" />
-      <img src="https://img.shields.io/badge/Followers-38-green?style=flat-square" alt="Followers" />
-      <img src="https://img.shields.io/badge/Following-139-orange?style=flat-square" alt="Following" />
-    </div>
   </div>
 </div>
 
@@ -72,5 +66,11 @@
 <div align="center">
 
 **🚀 Always learning. Open to collaborations and feedback!**
+
+<p>
+  <img src="https://img.shields.io/badge/Public%20Repositories-11-blue?style=flat-square" alt="Repos" />
+  <img src="https://img.shields.io/badge/Followers-38-green?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-139-orange?style=flat-square" alt="Following" />
+</p>
 
 </div>
