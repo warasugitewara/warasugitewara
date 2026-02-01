@@ -55,6 +55,16 @@
   </tr>
 </table>
 
+<h2 align="center">📈 Skill Graph.</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warasugitewara&theme=dark_dimmed" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warasugitewara&theme=dark_dimmed" alt="Most Commit Language" />
+</p>
+
 <h2 align="center">🔗 Connect.</h2>
 
 <p align="center">
