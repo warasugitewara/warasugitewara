@@ -22,7 +22,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>🔤 Backend Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=java,python,typescript,lua,kotlin&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,python,rust,lua,kotlin&theme=dark" />
     </td>
     <td align="center" width="50%">
       <strong>🛠️ Tools & Environment</strong><br>
