@@ -8,8 +8,6 @@
   - 💞️ I'm looking to collaborate on innovative projects
 </p>
 
----
-
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=github_dark" alt="Profile Details" />
@@ -17,13 +15,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warasugitewara&theme=github_dark&utcOffset=9" alt="Productive Time" />
 </div>
 
----
-
 <div align="center">
   <strong>🚀 Always learning. Open to collaborations and feedback!</strong>
 </div>
-
----
 
 <table align="center" border="0" cellpadding="20">
   <tr>
