@@ -19,7 +19,7 @@
     </td>
     <td align="center" width="50%">
       <strong>🛠️ Tools & Environment</strong><br>
-      <img src="https://skillicons.dev/icons?i=neovim,wezterm,discord,windows&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=neovim,discord,windows&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -35,6 +35,7 @@
   <tr>
     <td colspan="2" align="center">
       <strong>⚡ Shell & Prompt</strong><br>
+      <img src="https://img.shields.io/badge/WezTerm-latest-blue?style=flat-square&logo=shell" />
       <img src="https://img.shields.io/badge/Nushell-0.86-success?style=flat-square&logo=shell" />
       <img src="https://img.shields.io/badge/Starship-1.17-success?style=flat-square&logo=shell" />
     </td>
