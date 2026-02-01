@@ -1,17 +1,16 @@
-<table align="center" border="0" cellpadding="15">
-  <tr>
-    <td align="center" width="50%">
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
+    <div>
       <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
-    </td>
-    <td align="center" width="50%">
+    </div>
+    <div>
       <h3>📊 My Stats</h3>
       <img src="https://img.shields.io/badge/Public%20Repositories-11-blue?style=flat-square" alt="Repos" />
       <img src="https://img.shields.io/badge/Followers-38-green?style=flat-square" alt="Followers" />
       <img src="https://img.shields.io/badge/Following-139-orange?style=flat-square" alt="Following" />
-      <p><strong>🔝 Top Languages:</strong><br>Java • Python • TypeScript • JavaScript</p>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 <h1 align="center">Hi 👋 I'm warasugitewara.</h1>
 <h4 align="center">Student | Backend Developer | Game Developer</h4>
@@ -61,16 +60,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">🎮 Featured Projects.</h2>
-
-<p align="center">
-  <strong>🎯 Browser Game Development</strong><br>
-  Crafting engaging web-based games with robust backend logic<br>
-  <br>
-  <strong>📦 Minecraft Server Plugins</strong><br>
-  Building server-side plugins using Java & Bukkit/Spigot API
-</p>
 
 <h2 align="center">🔗 Connect.</h2>
 
