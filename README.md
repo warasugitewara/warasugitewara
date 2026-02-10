@@ -24,7 +24,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://discord.com/users/811515262238064640">
-        <img src="https://lanyard.cnrad.dev/api/811515262238064640?showDisplayName=true&theme=dark&bg=transparent" alt="Discord" />
+        <img src="https://lanyard.cnrad.dev/api/811515262238064640?bg=transparent" alt="Discord" />
       </a>
     </td>
   </tr>
