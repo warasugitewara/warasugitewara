@@ -7,7 +7,11 @@
 </p>
 <h2 align="center">🛠️Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,java,python,typescript,javascript,rust,kotlin,cpp,lua,react,nodejs,docker,git,linux,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=
+    java,python,typescript,javascript,rust,kotlin,cpp,lua,
+    react,nodejs,
+    docker,git,
+    neovim,wezterm,windows,linux&theme=dark" />
 </p>
 
 <div align="center">
