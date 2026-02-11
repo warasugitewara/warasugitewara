@@ -7,7 +7,7 @@
 </p>
 <h2 align="center">🛠️My Favorite Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,typescript,lua,neovim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,typescript,lua,nushell,neovim&theme=dark" />
 </p>
 
 <div align="center">
