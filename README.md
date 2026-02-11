@@ -5,7 +5,7 @@
   - 🎮 I'm currently working on game plugins and cli tools<br>
   - 🌱 I'm learning more about distributed systems & scalable architecture<br>
 </p>
-<h2 align="center">🖥️My skills</h2>
+<h2 align="center">🛠️Languages and Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=neovim,java,python,typescript,javascript,rust,kotlin,cpp,lua,react,nodejs,docker,git,linux,&theme=dark" />
 </p>
