@@ -11,7 +11,7 @@
     java,python,typescript,javascript,rust,kotlin,cpp,lua,
     react,nodejs,
     docker,git,
-    neovim,wezterm,windows,linux&theme=dark" />
+    neovim,windows,linux&theme=dark" />
 </p>
 
 <div align="center">
