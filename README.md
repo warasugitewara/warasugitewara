@@ -7,7 +7,7 @@
 </p>
 <h2 align="center">🖥️My skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nvim,java,python,typescript,javascript,rust,kotlin,cpp,lua,react,nodejs,docker,git,linux,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vim,java,python,typescript,javascript,rust,kotlin,cpp,lua,react,nodejs,docker,git,linux,&theme=dark" />
 </p>
 
 <div align="center">
