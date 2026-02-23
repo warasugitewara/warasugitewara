@@ -17,6 +17,15 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warasugitewara&theme=github_dark" />
 </div>
 
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="50%">
