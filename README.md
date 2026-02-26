@@ -30,7 +30,7 @@ shell     ▸ Discord  : .warasugi
 locale    ▸ TZ       : UTC+09 (JST)
 
 note      ▸ Always learning. Open to collaborations and feedback!
-.warasugi@github:~$ exit
+.warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
 <h1 align="center">Hi 👋 I'm .warasugi</h1>
 <h4 align="center">Student | Backend Developer | Game Developer</h4>
