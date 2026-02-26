@@ -28,6 +28,7 @@ uptime    ▸ Learning : distributed systems, scalable architecture
 packages  ▸ FavTools : Java • Python • C++ • Lua • Neovim
 shell     ▸ Discord  : .warasugi
 locale    ▸ TZ       : UTC+09 (JST)
+Money     ▸ JPY      : 5000兆円欲しい
 
 note      ▸ Always learning. Open to collaborations and feedback!
 .warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
