@@ -41,7 +41,7 @@ note      ▸ Always learning. Open to collaborations and feedback!
 </p>
 <h2 align="center">🛠️My Favorite Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,lua,neovim,debian,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,lua,neovim,proxmox,debian,windows&theme=dark" />
 </p>
 
 <div align="center">
