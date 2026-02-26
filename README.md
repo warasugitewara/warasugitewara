@@ -30,6 +30,7 @@ shell     ▸ Discord  : .warasugi
 locale    ▸ TZ       : UTC+09 (JST)
 
 note      ▸ Always learning. Open to collaborations and feedback!
+.warasugi@github:~$ exit
 ```
 
 <h1 align="center">Hi 👋 I'm .warasugi</h1>
