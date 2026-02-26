@@ -26,8 +26,8 @@ host      ▸ Backend Developer / Game Developer
 kernel    ▸ Working on: game plugins, CLI tools
 uptime    ▸ Learning : distributed systems, scalable architecture
 packages  ▸ FavTools : Java • Python • C++ • Lua • Neovim
-shell     ▸ Discord  : .warasugi
 locale    ▸ TZ       : UTC+09 (JST)
+shell     ▸ Discord  : .warasugi
 Money     ▸ JPY      : 5000兆円欲しい
 
 note      ▸ Always learning. Open to collaborations and feedback!
