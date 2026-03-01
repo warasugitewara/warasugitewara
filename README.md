@@ -36,7 +36,7 @@ Ai        ▸・copilot  : Claude Haiku 4.5
 note      ▸ Always learning. Open to collaborations and feedback!
 .warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
-<h1 align="center">Hi 👋 I'm .warasugi</h1>
+# Hi 👋 I'm .warasugi
 <h4 align="center">Student | Backend Developer | Game Developer</h4>
 
 <p align="center">
