@@ -30,7 +30,7 @@ locale    ▸ TZ       : UTC+09 (JST)
 shell     ▸ Discord  : .warasugi
 Money     ▸ JPY      : 5000兆円欲しい
 Ai        ▸ ・copilot:Claude Haiku 4.5
-            ・codex  :GPT-5.3-codex
+             ・codex  :GPT-5.3-codex
 
 note      ▸ Always learning. Open to collaborations and feedback!
 .warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
