@@ -1,6 +1,6 @@
  ```text
 .warasugi@github:~$ ssh gh -i ~/.ssh/id_ed25519_gh
-.warasugi@github:~$ wara'sfetch
+.warasugi@github:~$ warasfetch
 ──────────────────────────────────────────────────────────────────────────────
   ╭────────────────────────────────────────────────────────────────────────╮
   │  scan : online  |  link : wired  |  mode : Student   |  ver : 17yo     │
