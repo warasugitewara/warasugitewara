@@ -87,3 +87,4 @@ My keyboard
 
 ### My keyboard ⌨️
 [Mint60](https://github.com/user-attachments/assets/454b917a-c198-4dc0-b3fc-5b41412e2a07)
+[A75](https://github.com/user-attachments/assets/7637aef2-3db6-406e-bfef-0a69e64b5676)
