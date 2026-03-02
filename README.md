@@ -86,4 +86,4 @@ note      ▸ Always learning. Open to collaborations and feedback!
 My keyboard
 
 ### My keyboard ⌨️
-![Mint60](https://github.com/user-attachments/assets/454b917a-c198-4dc0-b3fc-5b41412e2a07)
+[Mint60](https://github.com/user-attachments/assets/454b917a-c198-4dc0-b3fc-5b41412e2a07)
