@@ -32,8 +32,8 @@ shell     ▸ Discord   : .warasugi
 Money     ▸ JPY       : 5000兆円欲しい
 Ai-agents ▸・copilot  : Claude Haiku 4.5
             ・codex    : GPT-5.3-codex
-Keyboard  ▸・Mint 60
-            ・DD-A75
+Keyboard  ▸・Mint 60  : eucalyn(lilakey) ←普段使いはやはり分割
+            ・A75      : DrunkDeer        ←valorant中だけ
 note      ▸ Always learning. Open to collaborations and feedback!
 .warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
