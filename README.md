@@ -79,10 +79,6 @@ note      ▸ Always learning. Open to collaborations and feedback!
   </tr>
 </table>
 <div align="center">
-  <strong>🚀 Always learning. Open to collaborations and feedback!</strong>
+  <strong>🚀 Always le arning. Open to collaborations and feedback!</strong>
 </div>
-My keyboard
-
-### My keyboards Photo#8K ⌨️📷️
-- [Mint60](https://github.com/user-attachments/assets/454b917a-c198-4dc0-b3fc-5b41412e2a07)
-- [A75](https://github.com/user-attachments/assets/7637aef2-3db6-406e-bfef-0a69e64b5676)
+### See ya!
