@@ -55,18 +55,6 @@ note      ▸ Always learning. Open to collaborations and feedback!
 　 <img alt="me" height="194px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=transparent" alt="Profile Details" /> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&show_icons=true&bg_color=00000000" />
   <img alt="github status" height="160px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&layout=compact&show_icons=true&bg_color=00000000" /> 
-  　<table align="center" border="0" cellpadding="10">
-　  <tr>
- 　   <td align="center" width="50%">
-   　   <img alt="count" height="155px" src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" />
- 　   </td>
-  　  <td align="center" width="50%">
-  　    <a href="https://discord.com/users/811515262238064640">
- 　       <img alt="discord" height="155px" src="https://lanyard.cnrad.dev/api/811515262238064640?bg=transparent" />
-　      </a>
- 　   </td>
-　  </tr>
-　</table>
 </div>
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
@@ -75,6 +63,18 @@ note      ▸ Always learning. Open to collaborations and feedback!
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake.svg" />
   </picture>
+   　<table align="center" border="0" cellpadding="10">
+　  <tr>
+ 　   <td align="center" width="50%">
+   　   <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" />
+ 　   </td>
+  　  <td align="center" width="50%">
+  　    <a href="https://discord.com/users/811515262238064640">
+ 　       <img alt="discord" height="160px" src="https://lanyard.cnrad.dev/api/811515262238064640?bg=transparent" />
+　      </a>
+ 　   </td>
+　  </tr>
+　</table>
 </div>
 <div align="center">
   <strong>🚀 Always le arning. Open to collaborations and feedback!</strong>
