@@ -53,10 +53,8 @@ note      ▸ Always learning. Open to collaborations and feedback!
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&show_icons=true&bg_color=0d1117" />
-  <img alt="github state" height="160px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&layout=compact&show_icons=true&bg_color=0d1117" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=github_dark" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=warasugitewara&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warasugitewara&theme=github_dark&utcOffset=9" />
+  <img alt="github status" height="160px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&layout=compact&show_icons=true&bg_color=0d1117" /> 
+  <img alt="me" height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=github_dark" alt="Profile Details" />
 </div>
 
 <div align="center">
