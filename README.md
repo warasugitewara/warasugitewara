@@ -55,7 +55,7 @@ note      ▸ Always learning. Open to collaborations and feedback!
 　 <img alt="me" height="194px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=transparent" alt="Profile Details" /> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&show_icons=true&bg_color=00000000" />
   <img alt="github status" height="160px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&layout=compact&show_icons=true&bg_color=00000000" /> 
-  　<table align="center" border="0" cellpadding="10">
+  　<table align="center" height="160px" border="0" cellpadding="10">
 　  <tr>
  　   <td align="center" width="50%">
    　   <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" />
