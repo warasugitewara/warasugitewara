@@ -66,7 +66,7 @@ note      ▸ Always learning. Open to collaborations and feedback!
    　<table align="center" border="0" cellpadding="10">
 　  <tr>
  　   <td align="center" width="50%">
-   　   <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" />
+   　   <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=booru-lewd" />
  　   </td>
   　  <td align="center" width="50%">
   　    <a href="https://discord.com/users/811515262238064640">
