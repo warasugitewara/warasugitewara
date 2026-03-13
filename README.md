@@ -69,11 +69,11 @@ note      ▸ Always learning. Open to collaborations and feedback!
 <table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="50%">
-      <img src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
+      <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=rule34" alt="" />
     </td>
     <td align="center" width="50%">
       <a href="https://discord.com/users/811515262238064640">
-        <img src="https://lanyard.cnrad.dev/api/811515262238064640?bg=transparent" alt="Discord" />
+        <img alt="discord" height="160px" src="https://lanyard.cnrad.dev/api/811515262238064640?bg=transparent" alt="Discord" />
       </a>
     </td>
   </tr>
