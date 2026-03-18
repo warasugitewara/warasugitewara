@@ -30,7 +30,7 @@ packages  ▸ FavTools  : Java • Python • C++ • Lua • Neovim
 locale    ▸ TZ        : UTC+09 (JST)
 shell     ▸ Discord   : .warasugi
 Money     ▸ JPY       : 5000兆円欲しい
-Ai-agents ▸・copilot  : Claude Haiku 4.5
+Ai-agents ▸・copilot  : Claude Sonnet 4.6
             ・codex    : GPT-5.3-codex
 Keyboard  ▸・Mint 60  : eucalyn
             ・A75      : DrunkDeer
