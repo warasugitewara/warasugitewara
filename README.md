@@ -80,4 +80,5 @@ note      ▸ Always learning. Open to collaborations and feedback!
   <strong>🚀 Always le arning. Open to collaborations and feedback!</strong>
 </div>
 
+[icon](https://x.com/1041uuu/status/1161923643238039552?t=pUQn79S_TW_RektbH8bZxQ&s=19)
 ### See ya!
