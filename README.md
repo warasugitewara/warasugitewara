@@ -45,9 +45,9 @@ note      ▸ Always learning. Open to collaborations and feedback!
   - 🎮 I'm currently working on game plugins and cli tools<br>
   - 🌱 I'm learning more about distributed systems & scalable architecture<br>
 </p>
-<h2 align="center">🛠️My Favorite Languages and Tools</h2>
+<h2 align="center">🛠️My Favorite Languages and Tools(A-Z)</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,lua,neovim,linux,windows,typescript,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=discord,java,kotlin,linux,lua,neovim,typescript,windows&theme=dark" />
 </p>
 
 <div align="center">
