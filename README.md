@@ -26,7 +26,7 @@ os        ▸ Student
 host      ▸ Backend Developer / Game Developer
 kernel    ▸ Working on: game plugins, CLI tools
 uptime    ▸ Learning  : distributed systems, scalable architecture
-packages  ▸ FavTools  : Java • Python • C++ • Lua • Neovim
+packages  ▸ FavTools  : Java • Kotlin • Python • Lua • Neovim ❤Vpet
 locale    ▸ TZ        : UTC+09 (JST)
 shell     ▸ Discord   : .warasugi
 Money     ▸ JPY       : 5000兆円欲しい
@@ -47,7 +47,7 @@ note      ▸ Always learning. Open to collaborations and feedback!
 </p>
 <h2 align="center">🛠️My Favorite Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,lua,neovim,cloudflare,linux,windows,typescript,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,lua,neovim,linux,windows,typescript,discord&theme=dark" />
 </p>
 
 <div align="center">
