@@ -80,8 +80,7 @@ note      ▸ Always learning. Open to collaborations and feedback!
   <strong>🚀 Always le arning. Open to collaborations and feedback!</strong>
 </div>
 Fav LP
-<a href="https://music.apple.com/jp/album/maid-san-and-witch-lp/1811499485">
-  <img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-music/badge/ja-jp?size=250x83" alt="Listen on Apple Music" width="150" />
-</a>
+
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-Maid%20San%20and%20Witch-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/jp/album/maid-san-and-witch-lp/1811499485)
 [icon](https://x.com/1041uuu/status/1161923643238039552?t=pUQn79S_TW_RektbH8bZxQ&s=19)
 ### See ya!
