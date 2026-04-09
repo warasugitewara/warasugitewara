@@ -53,8 +53,6 @@ note      ▸ Always learning. Open to collaborations and feedback!
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 　 <img alt="me" height="194px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=transparent" alt="Profile Details" /> 
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warasugitewara&layout=compact&show_icons=true&bg_color=00000000" />
-  <img alt="github status" height="160px" src="https://github-readme-stats.vercel.app/api?username=warasugitewara&layout=compact&show_icons=true&bg_color=00000000" /> 
 </div>
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
