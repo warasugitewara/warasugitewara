@@ -79,6 +79,7 @@ note      ▸ Always learning. Open to collaborations and feedback!
 <div align="center">
   <strong>🚀 Always le arning. Open to collaborations and feedback!</strong>
 </div>
+
 ### Fav LP
 
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-Maid%20San%20and%20Witch-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/jp/album/maid-san-and-witch-lp/1811499485)
