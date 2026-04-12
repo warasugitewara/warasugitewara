@@ -30,10 +30,8 @@ packages  ▸ FavTools  : Java • Kotlin • Python • Lua • Neovim ❤Vpet
 locale    ▸ TZ        : UTC+09 (JST)
 shell     ▸ Discord   : .warasugi
 Money     ▸ JPY       : 5000兆円欲しい
-Ai-agents ▸・copilot  : Claude Sonnet 4.6
-            ・codex    : GPT-5.3-Codex
-Keyboard  ▸・Mint 60  : eucalyn
-            ・A75      : DrunkDeer
+Ai-agents ▸ copilot  : Claude Sonnet 4.6
+Keyboard  ▸ Mint 60  : eucalyn
 note      ▸ Always learning. Open to collaborations and feedback!
 ──────────────────────────────────────────────────────────────────────────────
 .warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
