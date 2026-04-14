@@ -76,7 +76,7 @@ note      ▸ Always learning. Open to collaborations and feedback!
   <strong>🚀 Always le arning. Open to collaborations and feedback!</strong>
 </div>
 
-### Fav LP
+### others
 
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-.WARASUGI-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/profile/warasg777?ls)
 <br>
