@@ -37,18 +37,10 @@ note      ▸ Always learning. Open to collaborations and feedback!
 ──────────────────────────────────────────────────────────────────────────────
 .warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
-<h1 align="center">Hi 👋 I'm .warasugi</h1>
-<h4 align="center">Student | Backend Developer | Game Developer</h4>
-
-<p align="center">
-  - 🎮 I'm currently working on game plugins and cli tools<br>
-  - 🌱 I'm learning more about distributed systems & scalable architecture<br>
-</p>
 <h2 align="center">🛠️My Favorite Languages and Tools (A-Z)</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=discord,java,kotlin,linux,lua,neovim,typescript,windows&theme=dark" />
 </p>
-
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 　 <img alt="me" height="194px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=transparent" alt="Profile Details" /> 
