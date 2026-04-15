@@ -25,15 +25,10 @@
 os        ▸ Student
 host      ▸ Backend Developer / Game Developer
 kernel    ▸ Working on: game plugins, CLI tools
-uptime    ▸ Learning  : distributed systems, scalable architecture
-packages  ▸ FavTools  : Java • Kotlin • Python • Lua • Neovim ❤Vpet
+packages  ▸ FavTools  : Java • Kotlin • Python • Lua • ❤Vpet
 utensils  ▸ Editor    : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
-locale    ▸ Japan     : UTC+09 (JST)
-SNS       ▸ Discord   : .warasugi
-Money     ▸ JPY&ETH   : 5000兆円欲しい
 Ai-agents ▸ gh-copilot: Claude Sonnet 4.6
 Keyboard  ▸ eucalyn   : Mint 60
-note      ▸ Always learning. Open to collaborations and feedback!
 ──────────────────────────────────────────────────────────────────────────────
 .warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
