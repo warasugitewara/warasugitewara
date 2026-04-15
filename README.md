@@ -42,7 +42,6 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 　 <img alt="me" height="194px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=transparent" alt="Profile Details" /> 
 </div>
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake.svg" />
