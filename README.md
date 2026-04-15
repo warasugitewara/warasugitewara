@@ -50,10 +50,10 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
   </picture>
    　<table align="center" border="0" cellpadding="10">
 　  <tr>
- 　   <td align="center" width="50%">
+ 　   <td align="center" >
    　   <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=booru-lewd" />
  　   </td>
-  　  <td align="center" width="50%">
+  　  <td align="center" >
   　    <a href="https://discord.com/users/811515262238064640">
  　       <img alt="discord" height="160px" src="https://lanyard.cnrad.dev/api/811515262238064640?bg=transparent" />
 　      </a>
