@@ -27,9 +27,10 @@ host      ▸ Backend Developer / Game Developer
 kernel    ▸ Working on: game plugins, CLI tools
 uptime    ▸ Learning  : distributed systems, scalable architecture
 packages  ▸ FavTools  : Java • Kotlin • Python • Lua • Neovim ❤Vpet
-locale    ▸ TZ        : UTC+09 (JST)
-shell     ▸ Discord   : .warasugi
-Money     ▸ JPY       : 5000兆円欲しい
+utensils  ▸ Editor    : Neovim • Obsidian • FL Studio
+locale    ▸ Japan     : UTC+09 (JST)
+SNS       ▸ Discord   : .warasugi
+Money     ▸ JPY&ETH   : 5000兆円欲しい
 Ai-agents ▸ gh-copilot: Claude Sonnet 4.6
 Keyboard  ▸ eucalyn   : Mint 60
 note      ▸ Always learning. Open to collaborations and feedback!
