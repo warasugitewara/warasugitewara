@@ -38,10 +38,6 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
   <img src="https://skillicons.dev/icons?i=discord,java,kotlin,linux,lua,neovim,python,typescript,windows&theme=dark" />
 </p>
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-　 <img alt="me" height="194px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=transparent" alt="Profile Details" /> 
-</div>
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake.svg" />
@@ -65,7 +61,6 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 </div>
 
 ### others
-
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-.WARASUGI-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/profile/warasg777?ls)
 <br>
 [icon](https://x.com/1041uuu/status/1161923643238039552?t=pUQn79S_TW_RektbH8bZxQ&s=19)
