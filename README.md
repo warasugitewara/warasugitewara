@@ -25,8 +25,7 @@
 os        ▸ Student
 host      ▸ Backend Developer / Game Developer
 kernel    ▸ Working on: game plugins, CLI tools
-packages  ▸ FavTools  : Java • Kotlin • Python • Lua • ❤Vpet
-utensils  ▸ Editor    : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
+packages  ▸ Editor    : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
 Ai-agents ▸ gh-copilot: Claude Sonnet 4.6
 Keyboard  ▸ eucalyn   : Mint 60
 ──────────────────────────────────────────────────────────────────────────────
