@@ -27,7 +27,7 @@ host      ▸ Backend Developer / Game Developer
 kernel    ▸ Working on: game plugins, CLI tools
 uptime    ▸ Learning  : distributed systems, scalable architecture
 packages  ▸ FavTools  : Java • Kotlin • Python • Lua • Neovim ❤Vpet
-utensils  ▸ Editor    : Neovim • Obsidian • FL Studio
+utensils  ▸ Editor    : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
 locale    ▸ Japan     : UTC+09 (JST)
 SNS       ▸ Discord   : .warasugi
 Money     ▸ JPY&ETH   : 5000兆円欲しい
