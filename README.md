@@ -24,6 +24,7 @@
 ──────────────────────────────────────────────────────────────────────────────
 os        ▸ Student
 host      ▸ Backend Developer / Game Developer
+shell     ▸ Wezterm • Nushell • Starship
 kernel    ▸ Working on: game plugins, CLI tools
 packages  ▸ Editor    : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
 Ai-agents ▸ gh-copilot: Claude Sonnet 4.6
