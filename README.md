@@ -30,7 +30,8 @@ packages  ▸ Editor    : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
 Ai-agents ▸ gh-copilot: Claude Sonnet 4.6
 Keyboard  ▸ eucalyn   : Mint 60
 ──────────────────────────────────────────────────────────────────────────────
-.warasugi@github:~$ close the world, ɟxɘn ɘ⑁ɟ nɘqo
+.warasugi@github:~$ exit
+close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
 <h2 align="center">🛠️My Favorite Languages and Tools (A-Z)</h2>
 <p align="center">
