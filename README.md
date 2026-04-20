@@ -22,13 +22,12 @@
                     .:--==+++********+++==--:.
 
 ──────────────────────────────────────────────────────────────────────────────
+domain    ▸ warasugi.com
 os        ▸ Windows 11 • Fedora 43 KDE Plasma
-host      ▸ warasugi.com
 shell     ▸ Wezterm • Nushell • Starship
-kernel    ▸ Working on: game plugins, CLI tools
-packages  ▸ Editors   : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
-Ai-agents ▸ gh-copilot: Claude Opus,Sonnet 4.6
-Keyboard  ▸ eucalyn   : Mint 60
+packages  ▸ Neovim • Obsidian • FL Studio • SV Studio 2
+Ai-agents ▸ Claude Sonnet 4.6
+Keyboard  ▸ Mint 60
 ──────────────────────────────────────────────────────────────────────────────
 .warasugi@github:~$ exit
 close the world, ɟxɘn ɘ⑁ɟ nɘqo
