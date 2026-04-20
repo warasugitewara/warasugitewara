@@ -22,11 +22,11 @@
                     .:--==+++********+++==--:.
 
 ──────────────────────────────────────────────────────────────────────────────
-os        ▸ Student
-host      ▸ Backend Developer / Game Developer
+os        ▸ Windows 11 • Fedora 43 KDE Plasma
+host      ▸ warasugi.com
 shell     ▸ Wezterm • Nushell • Starship
 kernel    ▸ Working on: game plugins, CLI tools
-packages  ▸ Editor    : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
+packages  ▸ Editors   : Neovim • Obsidian • FL Studio • SV Studio 2 Pro
 Ai-agents ▸ gh-copilot: Claude Opus,Sonnet 4.6
 Keyboard  ▸ eucalyn   : Mint 60
 ──────────────────────────────────────────────────────────────────────────────
