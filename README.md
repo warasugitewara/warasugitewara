@@ -23,7 +23,7 @@
 
 ──────────────────────────────────────────────────────────────────────────────
 domain    ▸ warasugi.com
-os        ▸ Windows 11 Home • Fedora 43 KDE Plasma
+os        ▸ Windows 11 • Fedora 43 KDE
 shell     ▸ Wezterm • Nushell • Starship
 packages  ▸ Neovim • Obsidian • FL Studio • SV Studio 2
 Ai-agents ▸ Claude Sonnet 4.6
