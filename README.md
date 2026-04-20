@@ -63,5 +63,5 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ### others
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-.WARASUGI-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/profile/warasg777?ls)
 <br>
-[icon](https://x.com/1041uuu/status/1161923643238039552?t=pUQn79S_TW_RektbH8bZxQ&s=19)
+[![Icon Source](https://img.shields.io/badge/icon-@1041uuu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1041uuu/status/1161923643238039552?t=pUQn79S_TW_RektbH8bZxQ&s=19)
 ### See ya!
