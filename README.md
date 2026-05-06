@@ -23,9 +23,9 @@
 
 ──────────────────────────────────────────────────────────────────────────────
 domain    ▸ warasugi.com
-os        ▸ Windows 11 • Fedora 43 KDE
+os        ▸ Windows 11 • Ubuntu Server • Debian 13 etc...
 shell     ▸ Wezterm • Nushell • Starship
-packages  ▸ Neovim • Obsidian • FL Studio • SV Studio 2
+packages  ▸ Neovim • Obsidian • FL Studio • SV Studio 2 etc...
 Ai-agents ▸ Claude Sonnet 4.6
 Keyboard  ▸ Mint 60
 ──────────────────────────────────────────────────────────────────────────────
