@@ -34,7 +34,7 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
 <h2 align="center">🛠️My Favorite Languages and Tools (A-Z)</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,java,kotlin,linux,lua,neovim,python,typescript,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=claude,discord,java,kotlin,linux,lua,neovim,python,typescript,windows&theme=dark" />
 </p>
 <div align="center">
   <picture>
