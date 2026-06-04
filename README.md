@@ -34,7 +34,7 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
 <h2 align="center">🛠️My Favorite Languages & Others (A-Z)</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bun,cloudflare,discord,github,java,kotlin,linux,lua,md,neovim,obsidian,python,typescript,windows&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bun,cloudflare,debian,discord,github,java,kotlin,linux,lua,md,neovim,obsidian,python,typescript,windows&theme=dark&perline=10" />
 </p>
 <div align="center">
   <picture>
