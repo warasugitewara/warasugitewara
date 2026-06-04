@@ -32,9 +32,9 @@ Keyboard  ▸ Mint 60
 .warasugi@github:~$ exit
 close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
-<h2 align="center">🛠️My Favorite Languages and Tools (A-Z)</h2>
+<h2 align="center">🛠️My Favorite Languages & Others (A-Z)</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=claude,discord,java,kotlin,linux,lua,neovim,python,typescript,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bun,cloudflare,discord,java,kotlin,linux,lua,neovim,obsidian,python,typescript,windows&theme=dark&perline=10" />
 </p>
 <div align="center">
   <picture>
