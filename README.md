@@ -59,6 +59,10 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
   <strong>🚀 Always learning. Open to collaborations and feedback!</strong>
 </div>
 
+### My websites
+- [portfolio](https://portfolio.warasugi.com)
+- [Easy Sities 2D](https://ec2.warasugi.com)
+- [Uptime](https://uptime.warasugi.com/status/waras)
 ### others
 [icon](https://x.com/1041uuu/status/1161923643238039552?t=pUQn79S_TW_RektbH8bZxQ&s=19)
 ### Bye-bye
