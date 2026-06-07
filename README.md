@@ -1,5 +1,5 @@
  ```text
-.warasugi@github:~$ ssh gh -i ~/.ssh/id_ed25519_warasugi
+.warasugi@github:~$ ssh warasugi -p 777 -i ~/.ssh/id_ed25519_warasugitewara
 .warasugi@github:~$ warasfetch
 ──────────────────────────────────────────────────────────────────────────────
   ╭────────────────────────────────────────────────────────────────────────╮
