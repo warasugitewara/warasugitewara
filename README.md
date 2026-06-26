@@ -37,6 +37,15 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bun,cloudflare,debian,discord,github,java,kotlin,linux,lua,md,neovim,obsidian,python,typescript,ubuntu,windows&theme=dark&perline=9" />
 </p>
+<h2 align="center">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warasugitewara&theme=transparent" alt="Profile Details" width="80%" />
+</div>
+<br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warasugitewara&theme=transparent" alt="Repos per Language" width="40%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warasugitewara&theme=transparent" alt="Most Commit Language" width="40%" />
+</div>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/github-contribution-grid-snake-dark.svg" />
