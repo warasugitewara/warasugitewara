@@ -26,7 +26,7 @@ domain    ▸ warasugi.com
 os        ▸ Windows 11 • Ubuntu Server • Proxmox etc...
 shell     ▸ Wezterm • Nushell • Starship
 packages  ▸ Neovim • Obsidian • FL Studio • SV Studio 2 etc...
-Ai-agents ▸ Claude Sonnet [Calude Pro]
+Ai-agents ▸ Claude Pro
 Keyboard  ▸ Mint 60
 Phone     ▸ Galaxy S26+ 256GB
 ──────────────────────────────────────────────────────────────────────────────
