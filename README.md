@@ -3,7 +3,7 @@
 .warasugi@github:~$ warasfetch
 ──────────────────────────────────────────────────────────────────────────────
   ╭────────────────────────────────────────────────────────────────────────╮
-  │  name : .warasugi |  link : wired  |  mode : Student   |  ver : 17yo    │
+  │  name : .warasugi |  link : wired  |  mode : Student   |  ver : 17yo   │
   ╰────────────────────────────────────────────────────────────────────────╯
 
                     .:--==+++********+++==--:.
@@ -26,9 +26,12 @@ domain    ▸ warasugi.com
 os        ▸ Windows 11 • Ubuntu Server • Proxmox etc...
 shell     ▸ Wezterm • Nushell • Starship
 packages  ▸ Neovim • ZenNotes • FL Studio • SV Studio 2 etc...
-Ai-agents ▸ Claude Pro
+Ai        ▸ Claude Pro • Google AI plus
 Keyboard  ▸ Mint 60
 Phone     ▸ Galaxy S26+ 256GB
+Audio     ▸ Apple Music • Foobar2000
+DAC       ▸ lin.lin.lin M20 • Fiio KA13
+Earphone  ▸ qdc Superior • ACTIVO SCOOP • KZ ZSTX etc...
 ──────────────────────────────────────────────────────────────────────────────
 .warasugi@github:~$ exit
 close the world, ɟxɘn ɘ⑁ɟ nɘqo
