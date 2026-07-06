@@ -31,7 +31,7 @@ Keyboard  ▸ Mint 60
 Phone     ▸ Galaxy S26+ 256GB
 Audio     ▸ Apple Music • Foobar2000
 DAC       ▸ lin.lin.lin M20 • Fiio KA13
-Earphone  ▸ qdc Superior • ACTIVO SCOOP • KZ ZSTX etc...
+Earphone  ▸ qdc SUPERIOR • ACTIVO SCOOP • KZ ZSTX etc...
 ──────────────────────────────────────────────────────────────────────────────
 .warasugi@github:~$ exit
 close the world, ɟxɘn ɘ⑁ɟ nɘqo
