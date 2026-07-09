@@ -39,6 +39,21 @@ Audio     ▸ Apple Music • Foobar2000
 DAC       ▸ LIN.LIN.LIN M20 • Fiio KA13
 Earphone  ▸ qdc SUPERIOR • ACTIVO SCOOP • KZ ZSTX etc...
 ──────────────────────────────────────────────────────────────────────────────
+.warasugi@github:~$ homelab --tree
+ internet
+  └─ cloudflare tunnel / twingate
+      └─ opnsense
+          └─ proxmox cluster (3 nodes)
+              ├─ docker / lxc
+              │   ├─ adguard home
+              │   ├─ portfolio • uptime
+              │   └─ discord bots (yomiage etc...)
+              ├─ voicevox vm
+              ├─ minecraft network (velocity)
+              └─ etc...
+.warasugi@github:~$ homelab --full
+homelab: refusing to print 2045 lines. this is a README, not documentation.
+──────────────────────────────────────────────────────────────────────────────
 .warasugi@github:~$ exit
 close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
