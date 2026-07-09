@@ -1,3 +1,5 @@
+<p align="center"><b>情報系学生です。/ IT student in Japan 🇯🇵</b></p>
+
  ```text
 .warasugi@github:~$ ssh warasugi -p 777 -i ~/.ssh/id_ed25519_warasugitewara
 .warasugi@github:~$ java -Xms16G -Xmx16G -XX:+UseZGC -jar warasugi.jar
@@ -49,7 +51,7 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
    　<table align="center" border="0" cellpadding="10">
 　  <tr>
  　   <td align="center" >
-   　   <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=booru-lewd" />
+   　   <img alt="count" height="160px" src="https://count.getloli.com/get/@:Warasugi-777?theme=moebooru" />
  　   </td>
   　  <td align="center" >
   　    <a href="https://discord.com/users/811515262238064640">
