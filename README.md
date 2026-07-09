@@ -28,11 +28,11 @@
                     .:--==+++********+++==--:.
 
 ──────────────────────────────────────────────────────────────────────────────
-domain    ▸ warasugi.com
-focus     ▸ Infra / Homelab • Minecraft plugins • Discord bots
-os        ▸ Windows 11 • Proxmox • Debian12/13 etc...
-shell     ▸ Wezterm • Nushell • Starship
-packages  ▸ Neovim • ZenNotes • FL Studio • SV Studio 2 etc...
+Domain    ▸ warasugi.com
+Focus     ▸ Infra / Homelab • Minecraft Plugins • Discord bots
+OS        ▸ Windows 11 • Proxmox • Debian12/13 etc...
+Shell     ▸ Wezterm • Nushell • Starship
+Packages  ▸ Neovim • ZenNotes • FL Studio • SV Studio 2 etc...
 AI        ▸ Claude Pro • Google AI plus
 Keyboard  ▸ Mint 60
 Phone     ▸ Galaxy S26+ 256GB
