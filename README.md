@@ -29,6 +29,7 @@
 
 ──────────────────────────────────────────────────────────────────────────────
 domain    ▸ warasugi.com
+focus     ▸ Infra / Homelab • Minecraft plugins • Discord bots
 os        ▸ Windows 11 • Proxmox • Debian12/13 etc...
 shell     ▸ Wezterm • Nushell • Starship
 packages  ▸ Neovim • ZenNotes • FL Studio • SV Studio 2 etc...
