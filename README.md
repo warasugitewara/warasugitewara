@@ -7,7 +7,7 @@
  ```text
 .warasugi@github:~$ ssh warasugi -p 777 -i ~/.ssh/id_ed25519_warasugitewara
 .warasugi@github:~$ java -Xms16G -Xmx16G -XX:+UseZGC -jar warasugi.jar
-───────────────────────────────────────────────────
+------------------------------------------------------------------------------
   +------------------------------------------------------------------------+
   |  name : .warasugi |  link : wired  |  mode : Student   |  ver : 17yo   |
   +------------------------------------------------------------------------+
@@ -27,7 +27,7 @@
                .:-=+*##%%%%%%%%%%%%%%%%%%%%%%%%##*+=-:.
                     .:--==+++********+++==--:.
 
-───────────────────────────────────────────────────
+------------------------------------------------------------------------------
 Domain    ▸ warasugi.com
 Focus     ▸ Infra / Homelab • Minecraft Plugins • Discord bots
 OS        ▸ Windows 11 • Proxmox • Debian12/13 etc...
@@ -39,7 +39,7 @@ Phone     ▸ Galaxy S26+ 256GB
 Audio     ▸ Apple Music • Foobar2000
 DAC       ▸ LIN.LIN.LIN M20 • Fiio KA13
 Earphone  ▸ qdc SUPERIOR • ACTIVO SCOOP • KZ ZSTX etc...
-───────────────────────────────────────────────────
+------------------------------------------------------------------------------
 .warasugi@github:~$ homelab --tree
 internet
   └─ cloudflare tunnel / twingate (x2)
@@ -53,7 +53,6 @@ internet
               └─ etc...
 .warasugi@github:~$ homelab --full
 homelab: refusing to print 2045 lines. this is a README, not documentation.
-───────────────────────────────────────────────────
 .warasugi@github:~$ exit
 close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
