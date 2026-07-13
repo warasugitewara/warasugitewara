@@ -59,6 +59,9 @@ homelab: refusing to print 2045 lines. this is a README, not documentation.
 .warasugi@github:~$ exit
 close the world, ɟxɘn ɘ⑁ɟ nɘqo
 ``` 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/warasugitewara/warasugitewara/main/dist/metrics.svg" width="900" />
+</div>
 <h2 align="center">🛠️My Favorite Languages & Others (A-Z)</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bun,cloudflare,debian,discord,github,java,kotlin,linux,lua,md,neovim,obsidian,python,typescript,ubuntu,windows&theme=dark&perline=9" />
