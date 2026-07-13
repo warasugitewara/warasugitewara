@@ -39,6 +39,7 @@ Phone     ▸ Galaxy S26+ 256GB
 Audio     ▸ Apple Music • Foobar2000
 DAC       ▸ LIN.LIN.LIN M20 • Fiio KA13
 Earphone  ▸ qdc SUPERIOR • ACTIVO SCOOP • KZ ZSTX etc...
+TWS       ▸ Moondrop Golden Ages 2 • Earfun Air 4 Pro
 ------------------------------------------------------------------------------
 .warasugi@github:~$ homelab --tree
 internet
