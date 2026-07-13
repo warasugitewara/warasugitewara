@@ -45,11 +45,11 @@ TWS       ▸ Moondrop Golden Ages 2 • Earfun Air 4 Pro
 internet
   └─ cloudflare tunnel / twingate (x2)
       └─ opnsense (vm)
-          ├─ Debian 13 (bare metal)
-          │   └─ Purpur Server • ATM10 • etc...
           └─ proxmox cluster (3 nodes • 16 lxc + 2 vm)
               ├─ adguard home (x2)
               ├─ minecraft network (velocity)
+              │   └─ Debian 13 (bare metal)
+              │       └─ Purpur Server • ATM10 • etc...
               ├─ discord bots (music • yomiage • etc...)
               ├─ voicevox engine (vm)
               ├─ zabbix • uptime kuma • portfolio
