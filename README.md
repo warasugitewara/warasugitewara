@@ -35,6 +35,7 @@ Shell     ▸ Wezterm • Nushell • Starship
 Packages  ▸ Neovim • ZenNotes • FL Studio • SV Studio 2 etc...
 AI        ▸ Claude Pro • Google AI plus
 Keyboard  ▸ Mint 60
+3D print  ▸ Ender 3
 Phone     ▸ Galaxy S26+ 256GB
 Audio     ▸ Apple Music • Foobar2000
 DAC       ▸ LIN.LIN.LIN M20 • Fiio KA13
