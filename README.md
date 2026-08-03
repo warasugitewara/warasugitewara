@@ -34,7 +34,7 @@ OS        ▸ Windows 11 • Proxmox • Debian12/13 etc...
 Shell     ▸ Wezterm • Nushell • Starship
 Packages  ▸ Neovim • ZenNotes • FL Studio • SV Studio 2 etc...
 AI        ▸ Claude Pro • Google AI plus
-Keyboard  ▸ Mint 60
+Keyboard  ▸ Mint 60 • A75
 3D print  ▸ Ender 3
 Phone     ▸ Galaxy S26+ 256GB
 Audio     ▸ Apple Music • Foobar2000
