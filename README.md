@@ -6,7 +6,7 @@
 
  ```text
 .warasugi@github:~$ ssh warasugi -p 777 -i ~/.ssh/id_ed25519_warasugitewara
-.warasugi@github:~$ java -Xms16G -Xmx16G -XX:+UseZGC -jar warasugi.jar　nogui
+.warasugi@github:~$ java -Xms16G -Xmx16G -XX:+UseZGC -jar warasugi.jar nogui
 ------------------------------------------------------------------------------
   +------------------------------------------------------------------------+
   |  name : .warasugi |  link : wired  |  mode : Student   |  ver : 17yo   |
