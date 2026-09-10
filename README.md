@@ -48,17 +48,17 @@ internet
        ├─ Archer BE3600 (AP mode)
        ├─ IX2105 (VPN)
        └─ OPNsense (VM)
-          ├─ Main-PC (Win11)
-          ├─ Minecraft (Debian 13 • bare metal)
-          │  └─ Purpur • ATM10 • etc...
-          └─ Proxmox cluster (3 nodes • 17 LXC + 3 VM)
-             ├─ Cloudflare Tunnel (xN) & Twingate (x2)
-             ├─ AdGuard Home (x2)
-             ├─ Minecraft Velocity
-             ├─ Discord bots (music • yomiage • etc...)
-             ├─ Voicevox Engine (VM)
-             ├─ Zabbix • Uptime Kuma • portfolio • tango
-             └─ etc...
+           ├─ Main-PC (Win11)
+           ├─ Minecraft (Debian 13 • bare metal)
+           │  └─ Purpur • ATM10 • etc...
+           └─ Proxmox cluster (3 nodes • 17 LXC + 3 VM)
+               ├─ Cloudflare Tunnel (xN) & Twingate (x2)
+               ├─ AdGuard Home (x2)
+               ├─ Minecraft Velocity
+               ├─ Discord bots (music • yomiage • etc...)
+               ├─ Voicevox Engine (VM)
+               ├─ Zabbix • Uptime Kuma • portfolio • tango
+               └─ etc...
 .warasugi@github:~$ homelab --full
 homelab: refusing to print 2045 lines. this is a README, not documentation.
 .warasugi@github:~$ exit
