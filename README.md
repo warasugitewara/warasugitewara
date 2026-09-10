@@ -50,7 +50,7 @@ internet
        └─ OPNsense (VM)
            ├─ Main-PC (Win11)
            ├─ Minecraft (Debian 13 • bare metal)
-           │  └─ Purpur • ATM10 • etc...
+           │   └─ Purpur • ATM10 • etc...
            └─ Proxmox cluster (3 nodes • 17 LXC + 3 VM)
                ├─ Cloudflare Tunnel (xN) & Twingate (x2)
                ├─ AdGuard Home (x2)
