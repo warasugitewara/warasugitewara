@@ -49,7 +49,7 @@ internet
        ├─ Archer BE3600 (AP mode)
        ├─ IX2105 (VPN)
        └─ OPNsense (VM)
-           ├─ Main-PC (Win11)
+           ├─ Main-PC (Win11&Arch)
            ├─ Minecraft (Debian 13 • bare metal)
            │   └─ Purpur • ATM10 • etc...
            └─ Proxmox cluster (3 nodes • 17 LXC + 3 VM)
