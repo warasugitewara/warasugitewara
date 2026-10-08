@@ -68,7 +68,7 @@ close the world, ɟxɘn ɘ⑁ɟ nɘqo
 </div>
 <h2 align="center">🛠️My Favorite Languages & Others (A-Z)</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bun,cloudflare,debian,discord,github,java,kotlin,linux,lua,md,neovim,obsidian,python,typescript,ubuntu,windows&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arch,bun,cloudflare,debian,discord,github,java,kotlin,lua,md,neovim,python,typescript,windows&theme=dark" />
 </p>
 <div align="center">
   <picture>
