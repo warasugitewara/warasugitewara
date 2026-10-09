@@ -51,6 +51,7 @@ internet
        └─ OPNsense (VM)
            ├─ Main-PC (Win11)
            ├─ Dev-PC (Arch)
+           ├─ VAIO-Laptop (Arch)
            └─ Proxmox cluster (3 nodes • 17 LXC + 3 VM)
                ├─ Cloudflare Tunnel (xN) & Twingate (x2)
                ├─ AdGuard Home (x2)
