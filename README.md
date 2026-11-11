@@ -5,9 +5,9 @@
 </p>
 
  ```text
-.warasugi@github:~$ ssh warasugi -p 777 -i ~/.ssh/id_ed25519_warasugitewara
-.warasugi@github:~$ java -Xms32G -Xmx32G -XX:+UseZGC -jar warasugi.jar nogui
-------------------------------------------------------------------------------
+.warasugi@github:~$ ssh -p 777 -i ~/.ssh/id_ed25519_warasugitewara warasugi
+.warasugi@github:~$ cd ~/.warasugi && java -Xms32G -Xmx32G -XX:+UseZGC -jar warasugi.jar nogui
+----------------------------------------------------------------------------------------------
   +------------------------------------------------------------------------+
   |  name : .warasugi |  link : wired  |  mode : Student   |  ver : 17yo   |
   +------------------------------------------------------------------------+
@@ -27,7 +27,7 @@
                .:-=+*##%%%%%%%%%%%%%%%%%%%%%%%%##*+=-:.
                     .:--==+++********+++==--:.
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 Domain    ▸ warasugi.com
 Focus     ▸ Infra / Homelab • Minecraft Plugins • Discord bots
 OS        ▸ Windows 11 • Proxmox • Debian12/13 • Archlinux etc...
@@ -42,7 +42,7 @@ Audio     ▸ Apple Music • Foobar2000
 DAC       ▸ LIN.LIN.LIN M20 • Fiio KA13
 Earphone  ▸ qdc SUPERIOR • ACTIVO SCOOP • KZ ZSTX etc...
 TWS       ▸ Moondrop Golden Ages 2 • Earfun Air 4 Pro
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 .warasugi@github:~$ homelab --tree
 internet
    └─ HomeGateway
